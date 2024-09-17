@@ -1,5 +1,5 @@
-# Salauddin Omar Sifat
-## Senior Software Engineer
+# Salauddin Omar Sifat 
+**Senior Software Engineer**
 
 ### Career Summary
 #### [QuestionPro](https://www.questionpro.com/us/)
